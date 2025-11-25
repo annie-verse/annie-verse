@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-   <a href="https://github.com/i-anniie">
+   <a href="https://github.com/annie-verse">
     <img src="https://img.shields.io/badge/👋%20Hey%2C%20I'm-Anwesh-000000?style=for-the-badge&logo=github&logoColor=white" alt="Anwesh" style="height: 60px;"/>
   </a>
 </h1>
@@ -58,12 +58,12 @@ I believe conversations shape perspectives. So, beyond building software, I love
 
 ## 📊 **Stats & Performance**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-anniie&show_icons=true&hide_rank=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-anniie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annie-verse&show_icons=true&hide_rank=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annie-verse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-anniie&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annie-verse&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I believe conversations shape perspectives. So, beyond building software, I love
   <a href="https://www.linkedin.com/in/anweshmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/i-anniie">
+  <a href="https://github.com/annie-verse">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
